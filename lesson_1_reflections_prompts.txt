@@ -1,0 +1,3 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By only showing the bits that had changed, without all the rest to wade through 
